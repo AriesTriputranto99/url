@@ -123,3 +123,8 @@ with the standard and tests, and is currently used in [Node.js](https://github.c
 The [Live URL Viewer](https://jsdom.github.io/whatwg-url/) lets you manually test-parse any URL,
 comparing your browser's URL parser to that of
 [jsdom/whatwg-url](https://github.com/jsdom/whatwg-url).
+
+## Konfigurasi
+Create the runner and start the configuration experience
+$ ./config.sh --url [config](https://github.com/AriesTriputranto99/) # Last step, run it!
+$ ./run.sh
